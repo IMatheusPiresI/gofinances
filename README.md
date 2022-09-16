@@ -4,14 +4,20 @@ Repositório do projeto **Gofinances** desenvolvido para aprofundar os conhecime
 
 <h3 id="preview">🎥 Preview</h3>
 
-<img src="signinphoto.png" width="250px" heigth="auto">
-<img src="" width="250px" heigth="auto">
-<img src="" width="250px" heigth="auto">
-<img src="" width="250px" heigth="auto">
+<div style="display: flex">
+<img src="signinphoto.png" width="250px" heigth="auto" style="margin-left: 20px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="homephoto.png" width="250px" heigth="auto" style="margin-left: 20px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="registerphoto.png" width="250px" heigth="auto" style="margin-left: 20px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="categoryphoto.png" width="250px" heigth="auto" style="margin-left: 20px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="resumephoto.png" width="250px" heigth="auto" style="margin-left: 20px">
+</div>
 
 <h3 id="acessar-projeto">📁 Inicialização da Clonagem</h3>
 
-◽ <a href="">Acessar</a>🔗 o código fonte pelo GitHub. <br>
 ◽ Clonar o repositório ultilizando Git Bash + o comando:
 
        $ git clone https://github.com/IMatheusPiresI/gofinances.git
@@ -28,8 +34,7 @@ Repositório do projeto **Gofinances** desenvolvido para aprofundar os conhecime
 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
 </div>
