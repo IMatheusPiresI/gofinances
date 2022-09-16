@@ -5,9 +5,9 @@ Repositório do projeto **Gofinances** desenvolvido para aprofundar os conhecime
 <h3 id="preview">🎥 Preview</h3>
 
 <img src="signinphoto.png" width="100%">
-<img src="" width="100%">
-<img src="" width="100%">
-<img src="" width="100%">
+<img src="" width="250px" heigth="auto">
+<img src="" width="250px" heigth="auto">
+<img src="" width="250px" heigth="auto">
 
 <h3 id="acessar-projeto">📁 Inicialização da Clonagem</h3>
 
