@@ -4,7 +4,7 @@ Repositório do projeto **Gofinances** desenvolvido para aprofundar os conhecime
 
 <h3 id="preview">🎥 Preview</h3>
 
-<img src="" width="100%">
+<img src="signinphoto.png" width="100%">
 <img src="" width="100%">
 <img src="" width="100%">
 <img src="" width="100%">
